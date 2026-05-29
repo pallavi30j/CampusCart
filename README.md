@@ -2,6 +2,21 @@
 
 A full-stack marketplace web application for college students to buy and sell second-hand items within their campus. Built with Spring Boot backend and React frontend.
 
+## 📸 Screenshots
+
+### Login Page
+![Login](./screenshots/screenshot1.jpg.jpeg)
+
+### Register Page
+![Register](./screenshots/screenshot2.jpg.jpeg)
+
+### Home Page
+![Home](./screenshots/screenshot3.jpg.jpeg)
+
+### Create Listing
+![Create Listing](./screenshots/screenshot4.jpg.jpeg)
+
+
 ## 🌟 Features
 
 - 🔐 **User Authentication** — Register and login with encrypted passwords
